@@ -24,7 +24,7 @@
 ## Why This Exists
 
 `rsync` is powerful. Most backup scripts are fragile.  
-`backup.sh` is **robust, secure, and production-ready**.
+`backup.sh` is **robust and secure**.
 
 ---
 
